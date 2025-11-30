@@ -1,0 +1,9 @@
+NumPy, is a basic package for scientific computing with Python. It is a library that provides a multidimensional array object and tools for working with these arrays.
+
+Key Features of NumPy:
+
+High-Performance N-dimensional Arrays: The ndarray object is faster and more compact than Python lists.
+
+Broadcasting: This allows for arithmetic operations on arrays of different shapes, super useful for matrix math.
+
+Vectorization: Operations can be performed on entire arrays without explicitly writing loops, for example, arr * 2 would multiply every element by 2. Integration: It's easily integrated with C/C++ and Fortran code, which allows it to be blazingly fast.
