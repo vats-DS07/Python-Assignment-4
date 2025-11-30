@@ -1,0 +1,18 @@
+Numpy Array: 
+
+1) It stores data in continuous block and hence uses less RAM.
+
+2) Optimized code execution and efficient for larger datasets 
+
+3) All the elements must be of same type
+
+4) Built-in function for algebra, matrices, statistics
+
+Python Lists:
+1) Stores pointers to objects, hence high RAM usage 
+
+2) Python interpretation makes looping slow 
+
+3) Can store mixed datatypes like (int, float , str , bool) in a single list
+
+4) Good for general data storage but lacks complex math functions
